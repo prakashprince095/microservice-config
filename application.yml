@@ -1,6 +1,6 @@
 spring:
   application:
-    name=CONFIG-DEAFUT
+    name:CONFIG-DEAFUT
 eureka:
   instance:
     prefer-ip-address: true
